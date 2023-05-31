@@ -100,7 +100,6 @@
             Controls.Add(dateTimePickerFrom);
             Name = "MainForm";
             Text = "Crypto Analyzer";
-            Load += MainForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }
